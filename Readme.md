@@ -207,9 +207,9 @@ This means that a large proportion of customers fall outside the highest-value r
 
 Add the customer segment distribution chart here:
 
-```text
+
 ![Customer Distribution by RFM Segment](assets/customer_segment_distribution.png)
-```
+
 
 ---
 
@@ -234,9 +234,9 @@ Smaller segments such as Loyal Customers and Champions have higher revenue contr
 
 ### Screenshot
 
-```text
+
 ![Revenue Contribution by RFM Segment](assets/revenue_contribution_segment.png)
-```
+
 
 ---
 
@@ -264,9 +264,9 @@ This demonstrates why customer-level segmentation is more informative than looki
 
 ### Screenshot
 
-```text
+
 ![Average Monetary Value by Segment](assets/avg_monetary_by_segment.png)
-```
+
 
 ---
 
@@ -288,9 +288,9 @@ This reflects the strong concentration of one-time buyers in the dataset.
 
 ### Screenshot
 
-```text
+
 ![Average Purchase Frequency by Segment](assets/avg_frequency_by_segment.png)
-```
+
 
 ---
 
@@ -321,9 +321,9 @@ The At Risk segment has the highest average Recency, while Potential Loyalists h
 
 ### Screenshot
 
-```text
+
 ![Average Recency by Segment](assets/avg_recency_by_segment.png)
-```
+
 
 ---
 
@@ -351,9 +351,9 @@ The chart is descriptive and is not used to infer causation.
 
 ### Screenshot
 
-```text
+
 ![Recency vs Frequency](assets/recency_vs_frequency.png)
-```
+
 
 ---
 
@@ -381,13 +381,13 @@ These distributions explain why customer segmentation requires careful handling 
 
 ### Screenshots
 
-```text
+
 ![Recency Distribution](assets/recency_distribution.png)
 
 ![Frequency Distribution](assets/frequency_distribution.png)
 
 ![Monetary Distribution](assets/monetary_distribution.png)
-```
+
 
 ---
 
@@ -413,9 +413,9 @@ The analysis identifies the pattern but does not assume a specific causal reason
 
 ### Screenshot
 
-```text
+
 ![Monthly Revenue Trend](assets/monthly_revenue_trend.png)
-```
+
 
 ---
 
@@ -444,9 +444,9 @@ The category analysis helps identify which product groups contribute most to tra
 
 ### Screenshot
 
-```text
+
 ![Top 10 Product Categories by Revenue](assets/top_product_categories.png)
-```
+
 
 ---
 
@@ -470,9 +470,9 @@ Credit card is the dominant payment method in the analysed transaction data.
 
 ### Screenshot
 
-```text
+
 ![Payment Method Distribution](assets/payment_method_distribution.png)
-```
+
 
 ---
 
@@ -563,9 +563,9 @@ The heatmap therefore allows retention behaviour to be compared across different
 
 ### Screenshot
 
-```text
+
 ![Cohort Retention Heatmap](assets/cohort_retention_heatmap.png)
-```
+
 
 ---
 
